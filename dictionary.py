@@ -3,7 +3,7 @@
 daily_temps_list = [71.1, 71.5, 80.2, 79.2, 75.6, 73.5, 75.2]
 daily_names = ['sun', 'mon', 'tues', 'wed', 'thur', 'fri', 'sat']
 
-daily_temps_dict = {'sun':71.1, 'mon':71.5, 'tues':80.2, 'wed':79.2, 'thurs':75.6, 'fri':75.2}
+daily_temps_dict = {'sun':71.1, 'mon':71.5, 'tues':80.2, 'wed':79.2, 'thur':75.6, 'fri':75.2, 'sat':81.4}
 
 print("This program displays the avg temperature for a given day")
 
