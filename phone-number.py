@@ -30,7 +30,7 @@ def getPhoneSpell():
         phone_num = input('Enter a phone number in the form of 123-4567-abcd, choosing your own numbers and letters: ')
 
         # check if valid form
-        if len(phone_num) != 12 or phone_num[3] != '-' or phone_num[7] != '-':
+        if len(phone_num) != 13 or phone_num[3] != '-' or phone_num[8] != '-':
             print("Invalid entry - Must be in the form of xxx-xxxx-xxxx")
         elif not phone_num[:3].isdigit() or not phone_num[4:7].isdigit():
             print("Invalid entry - The first eight characters must be integers plus one dash, ie 123-4567")
