@@ -1,5 +1,8 @@
 # calculate's main module 
 # DO NOT alter this module 
+# Note from Bethany -- THIS CODE WAS WRITTEN BY MY PROFESSOR, DR. ELHAM EBRAHIMI,
+# TO TEST OUR CODE. The only change I've made is this comment and line 7 where I 
+# changed 'import lab15' to 'import calculate'.
 
 
 import calculate
